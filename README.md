@@ -1,2 +1,2 @@
 # RINN
-(RINN) Rank Inspired Neural Network for Linear Partial Differential Equations
+Rank Inspired Neural Network for Linear Partial Differential Equations
